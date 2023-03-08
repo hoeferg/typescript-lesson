@@ -1,5 +1,4 @@
-# Gayle Hoefer's Portfolio
-
+# TypeScript Lesson
 
 
 ## Table of Contents  
