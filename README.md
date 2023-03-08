@@ -1,5 +1,6 @@
 # TypeScript Lesson
 
+<img src="pexels-lars-h-knudsen-12840460.jpg" />
 
 ## Table of Contents  
 * [Description](##Description)  
